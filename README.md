@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ryonistic
 - 👀 I’m interested in development of web apps and android apps
-- 🌱 I’m currently learning python, html, css and javascript
+- 🌱 I’m currently learning Django Rest Framework and NextJs
 - 📫 How to reach me = instagram:  theryonistic , twitter: theryonistic 
 
 <!---
